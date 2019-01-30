@@ -1,5 +1,5 @@
 # Limpid
-Toy programming language aimed at education. 
+Toy programming language aimed at education. It currently supports only varaibles, if and while constructs.
 
 Labeled BNF:
 
