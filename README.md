@@ -1,4 +1,4 @@
-# limpid
+# Limpid
 Toy programming language aimed at education. 
 
 Labeled BNF:
