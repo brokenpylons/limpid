@@ -24,11 +24,11 @@ _.           expr: expr1
 
 Plus.        expr1: expr1 '+' expr2
 Minus.       expr1: expr1 '-' expr2
-_            expr1: expr2
+_.           expr1: expr2
 
 Times.       expr2: expr2 '*' expr3
 Divides.     expr2: expr2 '/' expr3
-_            expr2: expr3
+_.           expr2: expr3
 
 Number.      expr3: NUMBER
 Id.          expr3: ID
